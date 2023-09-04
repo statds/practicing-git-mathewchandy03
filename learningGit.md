@@ -14,7 +14,7 @@ instant automated feedback and help. Learn to open your first pull request, make
 your first open source contribution, create a GitHub Pages site, and more. For 
 more information about course offerings, see GitHub Skills.
 
-Become better acquaintedasdf  with GitHub through our getting started articles. See 
+Become better acquainted with GitHub through our getting started articles. See 
 our GitHub flow for a process introduction. Refer to our overview guides to walk 
 through basic concepts.
 
